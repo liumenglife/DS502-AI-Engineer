@@ -3,3 +3,10 @@
 *~
 *.DS_store
 *.pyc
+*.params
+*.rec
+*.json
+*.zip
+*.tar.gz
+*.jpg
+*.npy
